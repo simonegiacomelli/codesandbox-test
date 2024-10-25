@@ -1,0 +1,7 @@
+{
+  "title": "wwwpy",
+  "description": "The starter template of wwwpy",
+  "iconUrl": "https://raw.githubusercontent.com/codesandbox/sandbox-templates/main/python/.codesandbox/icon.png",
+  "tags": [ "wwwpy","python", "pip", "featured", "playground"],
+  "published": true
+}
